@@ -1,4 +1,3 @@
-import main from './styles/main.scss'
 const data = {
     data: 'My test data'
 };
